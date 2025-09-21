@@ -1,16 +1,16 @@
 // ==============================
 // CONFIGURACIÓN GLOBAL
 // ==============================
-const TEACHER_EMAIL = "tu-correo@tu-universidad.cl"; // Cambia esto
-const BACKUP_FOLDER_ID = "ID_DE_TU_CARPETA_BACKUP"; // Cambia esto
-const SHEET_ID = "1DVm3SmcVF8McJHnWnlRq9MgzOr9QmxWmLVJgLGhwu5s";
-const TASK_FOLDER_ID = "1KhhGBvM37w6STM8YjiMdgVEWuL6w07KW";
-const SUPPORT_EMAIL = "soporte-ayudantia@tu-universidad.cl"; // Correo de soporte
+const TEACHER_EMAIL = "tu-correo@tu-universidad.cl";  
+const BACKUP_FOLDER_ID = "ID_DE_TU_CARPETA_BACKUP"; 
+const SHEET_ID = "1Dlksdfhlksdfj348sfdkjhsfkljdhfd";
+const TASK_FOLDER_ID = "1kfhjgsdfkh787ksdfkjdsfhlksd";
+const SUPPORT_EMAIL = "soporte-ayudantia@tu-universidad.cl"; 
 
 // ==============================
 // CONFIGURACIÓN POR TAREA 
 // ==============================
-const CURRENT_TASK_NAME = "Práctico 1"; // ← Solo cambia esta línea
+const CURRENT_TASK_NAME = "Práctico 1"; 
 
 // Respuestas correctas para esta tarea
 const CORRECT_ANSWERS = {
